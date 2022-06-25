@@ -1,2 +1,1 @@
-# Math_libery
-Math_libery
+Classroom JS - Math Libary 
